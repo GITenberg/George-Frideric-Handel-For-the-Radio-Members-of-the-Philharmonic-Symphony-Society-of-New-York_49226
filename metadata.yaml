@@ -1,10 +1,16 @@
 _repo: George-Frideric-Handel-For-the-Radio-Members-of-the-Philharmonic-Symphony-Society-of-New-York_49226
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49226-h/images/cover.jpg
 creator:
   author:
     agent_name: Peyser, Herbert F.
     gutenberg_agent_id: '45207'
     url: http://www.gutenberg.org/2009/agents/45207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49226#George-Frideric-Handel-For-the-Radio-Members-of-the-Philharmonic-Symphony-Society-of-New-York
 gutenberg_issued: '2015-06-17'
 gutenberg_type: Text
 identifiers:
